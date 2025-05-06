@@ -5,3 +5,4 @@ description = "🔔 Smart macOS + Push Notifications for Claude Code"
 requires-python = ">=3.10"
 # clarify the control flow
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
